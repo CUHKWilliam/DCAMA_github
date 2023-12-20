@@ -1,0 +1,14 @@
+*.pth
+log
+logs
+*.so
+*.json
+*.pkl
+*.png
+*.jpg
+*.jpeg
+*.pt
+checkpoints
+checkpoint
+backbones
+backbone
